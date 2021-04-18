@@ -1,7 +1,7 @@
 ﻿# Portfolio-Interior-designer
 Simple landing page created for Interior designer 
 
-##Technologies :
+## Technologies :
 
 * HTML 5
 * CSS 3
